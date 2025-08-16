@@ -1,4 +1,4 @@
-# quick_link
+# Firebase Auth
 
 A new Flutter project.
 
